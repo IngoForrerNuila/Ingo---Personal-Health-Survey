@@ -182,3 +182,13 @@ li a {
     padding: 2rem;
 
   }
+
+  #ending {
+
+    font-size: 26px;
+    color: rgb(121, 211, 109);
+    font-weight: bold;
+    text-align: center;
+
+
+  }

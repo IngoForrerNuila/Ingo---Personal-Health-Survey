@@ -26,9 +26,17 @@
             <form action="page6.php" method="post" onsubmit="return validateQuestion('range-slider');">
                 <input type="range" name="range-slider-changed" min="1" max="5" value="1" id="range-slider">
                 <p class="spacer"></p>
-                <button type="submit" class="btn btn-primary">Next</button>
-                <a href="page4.php">BACK</a>
+                
                 <input type="hidden" name="lastPageID" value="page5">
+
+                <a href="page4.php">
+                    <button type="button" class="btn btn-primary">Back</button>
+
+                </a>
+
+                <button type="submit" name="submit" class="btn btn-primary">Next</button>
+                <p class="spacer"></p>
+
             </form>
         </div>
 

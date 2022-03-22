@@ -10,13 +10,13 @@
     <script src='main.js'></script>
 </head>
 
-<?php 
+<?php
 session_start();
 session_destroy();
 ?>
 
 <body>
-    
+
     <?php include "header.php"; ?>
 
     <div id="main" heigth="auto" width="auto">
@@ -26,7 +26,10 @@ session_destroy();
         <p id="slogan">The human body is complex and we must treat it with love so that it responds
             with strength and intensity. For this we must then know what our body needs.</p>
 
-        <a href="page1.php">START SURVEY</a>
+        <a href="page1.php">
+            <button type="button" class="btn btn-primary">START SURVEY</button>
+
+        </a>
 
         <div id="sportcon" class="col-sm-12">
 
@@ -86,7 +89,7 @@ session_destroy();
                 </p>
             </div>
 
-                    
+
         </div>
 
         <?php include "footer.php"; ?>

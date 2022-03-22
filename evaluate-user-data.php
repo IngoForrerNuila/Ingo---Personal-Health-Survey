@@ -3,9 +3,9 @@
 $totalPoints = 0;
 
 
-if (isset($_SESSION['page1'])) {
+if (isset($_SESSION['range-slider'])) {
 
-    $post = $_SESSION['page1'];
+    $post = $_SESSION['range-slider'];
 
     echo "\$post = $post<br>";
 
