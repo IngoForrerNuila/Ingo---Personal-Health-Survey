@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.70081 1122.5197"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.49260384"
+     inkscape:cx="375.55534"
+     inkscape:cy="522.73243"
+     inkscape:window-width="1920"
+     inkscape:window-height="932"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="296.52695"
+       y="376.03113"
+       width="175.08205"
+       height="61.503526"
+       id="rect5847" />
+    <rect
+       x="181.2252"
+       y="537.01985"
+       width="174.31833"
+       height="59.68516"
+       id="rect4934" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text4932"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4934);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.0031555,0,0,3.0031555,-321.44175,-1273.819)"><tspan
+         x="181.22461"
+         y="632.0957"
+         id="tspan44924"><tspan
+           dx="0 23.007812 11.796875"
+           style="fill:#ff8080"
+           id="tspan44916">FIT</tspan><tspan
+           dx="24.433594"
+           style="font-family:Karumbi;-inkscape-font-specification:'Karumbi, Normal'"
+           id="tspan44918">&amp;</tspan><tspan
+           dx="23.039932 39.550781 25.273438 22.285156"
+           style="fill:#008080"
+           id="tspan44920">WELL</tspan><tspan
+           dx="22.285156 5.9999847 9.6399689"
+           style="font-family:Karumbi;-inkscape-font-specification:'Karumbi, Normal'"
+           id="tspan44922">.ch</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text5845"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect5847);fill:#ff8080;fill-opacity:1;stroke:none"
+       transform="matrix(3.6358978,0,0,3.6358978,-982.844,-1025.8939)"
+       inkscape:export-filename="/home/oppdev2021/Documents/projects/Personal Health Survey/images/Logo1.png"
+       inkscape:export-xdpi="77.410004"
+       inkscape:export-ydpi="77.410004"><tspan
+         x="296.52734"
+         y="411.42188"
+         id="tspan44934"><tspan
+           style="font-family:Karumbi;-inkscape-font-specification:'Karumbi, Normal'"
+           id="tspan44926">FIT</tspan><tspan
+           style="fill:#000000"
+           id="tspan44928">&amp;</tspan><tspan
+           style="fill:#008080"
+           id="tspan44930">WELL</tspan><tspan
+           style="fill:#000000"
+           id="tspan44932">.ch</tspan></tspan></text>
+  </g>
+</svg>

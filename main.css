@@ -1,0 +1,184 @@
+#hcont {
+    background-color: rgb(203, 241, 146);
+    align-content: center;
+    height: 260px;
+    
+
+}
+
+#hconlog {
+    padding: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+
+}
+
+#hconnav {
+    width: 100%;
+    
+}
+
+#main {
+    
+    background-color: thistle;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: white; 
+    width: 100%;
+    
+}
+
+#mainquestions {
+    
+    background-color: thistle;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0); 
+    width: 100%;
+    
+}
+
+#sportcon{
+    max-height: 135vh;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color:rgb(223, 197, 83)
+    
+}
+
+#bkg1 {
+    
+    max-height: 520px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+
+}
+
+#sportdiv1{
+
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color:rgb(0, 0, 0)
+
+
+}
+
+
+#sportdiv2{
+
+    font-size: 16px;
+    font-weight: normal;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color:rgb(0, 0, 0)
+    
+
+
+}
+
+#text {
+    font-size: 18px;
+
+
+}
+
+#text2 {
+    font-size: 18px;
+    font-weight: normal;
+    padding-top: 2em;
+
+}
+
+
+#healthcon {
+    
+    
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    color:rgb(0, 0, 0)
+
+}
+
+#health{
+    max-height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+
+}
+
+
+#fcont {
+    background-color: rgb(203, 241, 146);
+    align-content: center;
+    height: 100px;
+    font-weight: normal;
+    color: black;
+}
+
+
+#fconlog {
+height: 30px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0%;
+
+
+}
+
+li {
+    display: inline;
+  }
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: rgb(183, 228, 115);
+}
+
+li a {
+    display:;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: rgb(158, 231, 75);
+  }
+
+  #slogan {
+    text-align: center;
+    font-size: 22px;
+    
+  }
+
+  #q1 {
+    max-width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+
+
+  }
+
+  #imgpage1 {
+    max-height: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2rem;
+
+  }
