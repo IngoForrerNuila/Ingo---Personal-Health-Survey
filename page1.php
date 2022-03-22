@@ -14,6 +14,9 @@
 <body>
 
     <?php include "header2.php"; ?>
+    <?php
+    session_destroy();
+    ?>
 
 
 
@@ -32,7 +35,7 @@
                         <p>Regular</p>
                     </div>
                     <div class="col" style="text-align: right;">
-                        <p>Healthy</p>
+                        <p>Super Healthy</p>
                     </div>
                 </div>
 

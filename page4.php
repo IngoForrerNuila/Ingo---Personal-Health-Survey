@@ -22,40 +22,43 @@
             <p id="question4">What additional physical activity do you
                 do most?</p>
 
-            <form action="page5.php" method="post" onsubmit="return validateCheckboxes();">
-                <input type="radio" id="lifting" name="q41" value="Lifting">
+            <form action="page5.php" method="post" onsubmit="return validateQuestion('question4', 'masiso');">
+                <input type="radio" id="question4" name="masiso" value="Lifting">
                 <label for="lifting">Lifting</label><br>
 
-                <input type="radio" id="walking" name="q42" value="Walking">
+                <input type="radio" id="question4" name="masiso" value="Walking">
                 <label for="walking">Walking</label><br>
 
-                <input type="radio" id="walking" name="q43" value="Jogging">
+                <input type="radio" id="question4" name="masiso" value="Jogging">
                 <label for="jogging">Jogging</label><br>
 
-                <input type="radio" id="jogging" name="q44" value="Running">
+                <input type="radio" id="question4" name="masiso" value="Running">
                 <label for="running">Running</label><br>
 
-                <input type="radio" id="swimming" name="q45" value="Swimming">
+                <input type="radio" id="question4" name="masiso" value="Swimming">
                 <label for="swimming">Swimming</label><br>
 
-                <input type="radio" id="dancing" name="q46" value="Dancing">
+                <input type="radio" id="question4" name="masiso" value="Dancing">
                 <label for="dancing">Dancing</label><br>
 
-                <input type="radio" id="aerobics" name="q47" value="Aerobics">
+                <input type="radio" id="question4" name="masiso" value="Aerobics">
                 <label for="aerobics">Aerobics</label><br>
 
-                <input type="radio" id="pilates" name="q48" value="Pilates">
+                <input type="radio" id="question4" name="masiso" value="Pilates">
                 <label for="pilates">Pilates</label><br>
 
-                <input type="radio" id="teamsports" name="q49" value="Teamsports">
+                <input type="radio" id="question4" name="masiso" value="Teamsports">
                 <label for="teamsports">Team sports </label><br>
 
-                <a href="page3.php">BACK</a>
+                <a href="page3.php">
+                    <button type="button" class="btn btn-primary">Back</button>
+
+                </a>
                 <button type="submit" class="btn btn-primary">Next</button>
 
                 <input type="hidden" name="lastPageID" value="page4">
                 <input type="hidden" name="checkboxValues" value="checkboxValues">
-                
+
             </form>
         </div>
 

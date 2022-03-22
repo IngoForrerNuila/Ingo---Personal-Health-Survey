@@ -16,6 +16,27 @@
     <?php include 'data-collector.php'; ?>
     <?php include 'evaluate-user-data.php'; ?>
 
+    <p id="ending">THANK YOU VERY MUCH FOR FILLING OUT THE SURVEY </p>
+
+    <?php
+
+    
+    echo array_values($_SESSION['page1']);
+
+    $a=array($_SESSION['page1'],$_SESSION['page2'],$_SESSION['page3']);
+        if(array_sum($a) < 5) {
+            echo "ESTA ES UNA PRUEBA" . $a;
+            } 
+            else {
+                echo array_values($a). "ESTA ES MAYOR QUE CINCO" .$a;
+
+
+            }
+
+    ?>
+
+
+    
     <div class="row">
         <div class="col-sm-8">
 

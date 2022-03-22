@@ -26,9 +26,19 @@
 
             <form action="page9.php" method="post" onsubmit="return validateQuestion('number-text');">
                 <input type="number" name="number-text" id="number-text" class="" style="max-width: 80px;"><br><br>
-                <button type="submit" class="btn btn-primary">Next</button>
-                <a href="page7.php">BACK</a>
+                
                 <input type="hidden" name="lastPageID" value="page8">
+
+                <a href="page7.php">
+                    <button type="button" class="btn btn-primary">Back</button>
+
+                </a>
+
+                <button type="submit" name="submit" class="btn btn-primary">Next</button>
+                <p class="spacer"></p>
+
+
+
             </form>
         </div>
 
